@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.chenkong.morecopperblock.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [],
+  "client": [
+    "ItemStackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "morecopperblock:alloy_copper_block",
+    "morecopperblock:exposed_alloy_copper_block",
+    "morecopperblock:weathered_alloy_copper_block",
+    "morecopperblock:oxidized_alloy_copper_block",
+    "morecopperblock:cut_alloy_copper_block",
+    "morecopperblock:exposed_cut_alloy_copper_block",
+    "morecopperblock:weathered_cut_alloy_copper_block",
+    "morecopperblock:oxidized_cut_alloy_copper_block",
+    "morecopperblock:cut_alloy_copper_stairs",
+    "morecopperblock:exposed_cut_alloy_copper_stairs",
+    "morecopperblock:weathered_cut_alloy_copper_stairs",
+    "morecopperblock:oxidized_cut_alloy_copper_stairs",
+    "morecopperblock:cut_alloy_copper_slab",
+    "morecopperblock:exposed_cut_alloy_copper_slab",
+    "morecopperblock:weathered_cut_alloy_copper_slab",
+    "morecopperblock:oxidized_cut_alloy_copper_slab"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "itemGroup.morecopperblock": "更多铜方块",
+
+  "item.morecopperblock.exposed_copper_ingot": "斑驳的铜锭",
+  "item.morecopperblock.weathered_copper_ingot": "锈蚀的铜锭",
+  "item.morecopperblock.oxidized_copper_ingot": "氧化的铜锭",
+  "item.morecopperblock.waxed_copper_ingot": "涂蜡的铜锭",
+  "item.morecopperblock.waxed_exposed_copper_ingot": "涂蜡的斑驳铜锭",
+  "item.morecopperblock.waxed_weathered_copper_ingot": "涂蜡的锈蚀铜锭",
+  "item.morecopperblock.waxed_oxidized_copper_ingot": "涂蜡的氧化铜锭",
+
+  "block.morecopperblock.alloy_copper_block": "合金铜块",
+  "block.morecopperblock.exposed_alloy_copper_block": "斑驳的合金铜块",
+  "block.morecopperblock.weathered_alloy_copper_block": "锈蚀的合金铜块",
+  "block.morecopperblock.oxidized_alloy_copper_block": "氧化的合金铜块",
+
+  "block.morecopperblock.cut_alloy_copper_block": "切制合金铜块",
+  "block.morecopperblock.exposed_cut_alloy_copper_block": "斑驳的切制合金铜块",
+  "block.morecopperblock.weathered_cut_alloy_copper_block": "锈蚀的切制合金铜块",
+  "block.morecopperblock.oxidized_cut_alloy_copper_block": "氧化的切制合金铜块",
+
+  "block.morecopperblock.cut_alloy_copper_stairs": "切制合金铜楼梯",
+  "block.morecopperblock.exposed_cut_alloy_copper_stairs": "斑驳的切制合金铜楼梯",
+  "block.morecopperblock.weathered_cut_alloy_copper_stairs": "锈蚀的切制合金铜楼梯",
+  "block.morecopperblock.oxidized_cut_alloy_copper_stairs": "氧化的切制合金铜楼梯",
+
+  "block.morecopperblock.cut_alloy_copper_slab": "切制合金铜台阶",
+  "block.morecopperblock.exposed_cut_alloy_copper_slab": "斑驳的切制合金铜台阶",
+  "block.morecopperblock.weathered_cut_alloy_copper_slab": "锈蚀的切制合金铜台阶",
+  "block.morecopperblock.oxidized_cut_alloy_copper_slab": "氧化的切制合金铜台阶",
+
+  "block.morecopperblock.chiseled_alloy_copper_block": "雕纹合金铜块",
+  "block.morecopperblock.exposed_chiseled_alloy_copper_block": "斑驳的雕纹合金铜块",
+  "block.morecopperblock.weathered_chiseled_alloy_copper_block": "锈蚀的雕纹合金铜块",
+  "block.morecopperblock.oxidized_chiseled_alloy_copper_block": "氧化的雕纹合金铜块",
+
+  "alloy.morecopperblock.type.copper": "铜",
+  "alloy.morecopperblock.type.exposed": "斑驳",
+  "alloy.morecopperblock.type.weathered": "锈蚀",
+  "alloy.morecopperblock.type.oxidized": "氧化",
+  "alloy.morecopperblock.type.waxed": "涂蜡",
+  "alloy.morecopperblock.type.waxed_exposed": "涂蜡的斑驳",
+  "alloy.morecopperblock.type.waxed_weathered": "涂蜡的锈蚀",
+  "alloy.morecopperblock.type.waxed_oxidized": "涂蜡的氧化",
+
+  "alloy.morecopperblock.count.2": "二",
+  "alloy.morecopperblock.count.3": "三",
+  "alloy.morecopperblock.count.4": "四",
+  "alloy.morecopperblock.count.5": "五",
+  "alloy.morecopperblock.count.6": "六",
+  "alloy.morecopperblock.count.7": "七",
+  "alloy.morecopperblock.count.8": "八",
+  "alloy.morecopperblock.count.9": "九",
+
+  "alloy.morecopperblock.suffix": "铜块",
+  "alloy.morecopperblock.cut_suffix": "切制铜块",
+  "alloy.morecopperblock.cut_stairs_suffix": "切制铜楼梯",
+  "alloy.morecopperblock.cut_slab_suffix": "切制铜台阶",
+  "alloy.morecopperblock.chiseled_suffix": "雕纹铜块",
+
+  "morecopperblock.configuration.title": "MoreCopperBlock 配置",
+  "morecopperblock.configuration.section.morecopperblock.common.toml": "MoreCopperBlock 配置",
+  "morecopperblock.configuration.section.morecopperblock.common.toml.title": "MoreCopperBlock 配置",
+  "morecopperblock.configuration.items": "物品列表",
+  "morecopperblock.configuration.logDirtBlock": "记录泥土方块",
+  "morecopperblock.configuration.magicNumberIntroduction": "魔法数字文本",
+  "morecopperblock.configuration.magicNumber": "魔法数字"
+}

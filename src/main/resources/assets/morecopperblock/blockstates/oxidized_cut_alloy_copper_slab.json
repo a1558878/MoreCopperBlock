@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "morecopperblock:block/oxidized_cut_alloy_copper_slab" },
+    "type=top": { "model": "morecopperblock:block/oxidized_cut_alloy_copper_slab_top" },
+    "type=double": { "model": "morecopperblock:block/oxidized_cut_alloy_copper_block" }
+  }
+}

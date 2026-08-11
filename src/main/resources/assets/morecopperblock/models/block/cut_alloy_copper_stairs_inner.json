@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "morecopperblock:block/cut_alloy_copper",
+    "side": "morecopperblock:block/cut_alloy_copper",
+    "top": "morecopperblock:block/cut_alloy_copper"
+  }
+}
